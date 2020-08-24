@@ -5,3 +5,7 @@
  - Download the project on your system
  - Open index.html file in Google Chrome browser
  - Enjoy
+
+# Version 2
+My WordPress design of the same website can be found using the following link:
+https://testsite324440949.wordpress.com/
